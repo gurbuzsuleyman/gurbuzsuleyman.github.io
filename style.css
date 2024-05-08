@@ -11,14 +11,16 @@
 a {
   text-decoration: none;
   color: blue;
-  transition: 0.2s ease;
-  border: 3px solid black;
-  padding: 5px;
-  border-radius: 100px;
+  transition: all .25s ;
+  border: 3px solid #ffaa02;
+  padding: 10px;
+  border-radius: 0px;
+  font-size: 20px;
 }
 
 a:hover {
   color: #ffaa02;
+  border: 3px solid blue;
 }
 
 body {
@@ -32,10 +34,10 @@ body {
 }
 
 .container img {
-  width: 150px;
-  height: 150px;
+  width: 200px;
 }
 
 .container h1 {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
+  font-size: 50px;
 }
