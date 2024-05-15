@@ -12,7 +12,7 @@ a {
   text-decoration: none;
   color: blue;
   transition: all .25s ;
-  border: 3px solid #ffaa02;
+  border: 3px solid black;
   padding: 10px;
   font-size: 20px;
 }
